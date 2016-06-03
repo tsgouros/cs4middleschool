@@ -24,8 +24,16 @@ understanding for learning to design and write a program from scratch
 in the future, though that is not a necessary part of this
 curriculum.
 
-This curriculum was developed at the Learning Community, a public
-charter school in Central Falls, Rhode Island during the 2014--2015
-academic year.  It was meant to be the first of three successive years
-of lessons, with the second and third years looping through similar
-material, adding more advanced concepts with each pass.
+Funded by NASA Space Grant, this curriculum was developed at the
+Learning Community, a public charter school in Central Falls, Rhode
+Island during the 2014--2015 academic year.  It was meant to be the
+first of three successive years of lessons, with the second and third
+years looping through similar material, adding more advanced concepts
+with each pass.
+
+The curriculum itself is just the document cs-curriculum.pdf. The
+latex source for the document is included in src/, as are all the
+images used in it, for those who want to use this to base further work
+on.  There's also a PPT presentation made to the NASA Space Grant
+Rhode Island chapter that funded this work that you might find
+interesting.
